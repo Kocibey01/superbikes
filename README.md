@@ -7,5 +7,6 @@ Superbikes and Specs
 
 2 Start React App
 
-2.1 go to the right directory and than,
+2.1 go to the right directory and than
+
 2.2 npm start

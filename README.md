@@ -12,6 +12,12 @@ Superbikes and Specs
 
 2.2 npm start
 
+3 React Bootstrap Used
+
+3.1 npm install react-bootstrap bootstrap
+
+3.2 followed instruction on https://react-bootstrap.github.io/getting-started/introduction/
+
 # Creating Template
 
 1 Header is created as Navigation Bar <NavBar> 

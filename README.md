@@ -1,4 +1,4 @@
-# Superbikes
+# Superbikes Gallery App
 
 Superbikes and Specs
 
@@ -11,3 +11,9 @@ Superbikes and Specs
 2.1 go to the right directory and than
 
 2.2 npm start
+
+# Creating Template
+
+1 Header is created as Navigation Bar <NavBar> 
+
+2 Main is creating as Gallery <Gallery>
